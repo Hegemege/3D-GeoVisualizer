@@ -1,0 +1,1 @@
+These files have been copied from https://github.com/tomimick/mapcolorizer
