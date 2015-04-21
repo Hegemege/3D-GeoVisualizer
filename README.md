@@ -1,6 +1,6 @@
 # 3D-GeoVisualizer
 
-To run the application, you must host the files on a server due to same-origin policy. If you have python installed, use
+To run the application, you must host the files on a server due to same-origin policy. If you have python installed, run the following in a directory with the files
 ```
 python -m SimpleHTTPServer
 ```
